@@ -12,7 +12,7 @@
     <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
-    <connection id="d4dac44d-7133-4445-8757-911e4aff2a23">
+    <connection id="30f6fe5c-43c6-4673-9697-ff6e4bbbf2fd">
       <console name="Connection" type="STANDARD" schema="mysql" session="Main" />
     </connection>
   </component>
@@ -20,7 +20,22 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files />
+    <open-files>
+      <object connection-id="30f6fe5c-43c6-4673-9697-ff6e4bbbf2fd" object-ref="schemas/CEF342/tables/class" />
+      <object connection-id="30f6fe5c-43c6-4673-9697-ff6e4bbbf2fd" object-ref="schemas/YOUTUBE/tables/student" />
+    </open-files>
+  </component>
+  <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-actions connection-id="30f6fe5c-43c6-4673-9697-ff6e4bbbf2fd" dataset="CEF342.class" active-filter-id="">
+      <filter id="06e68949-d599-4d1c-ad75-1428e260698f" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND">
+        <condition column="SN" operator="=" value="" active="true" />
+      </filter>
+    </filter-actions>
+    <filter-actions connection-id="30f6fe5c-43c6-4673-9697-ff6e4bbbf2fd" dataset="YOUTUBE.student" active-filter-id="">
+      <filter id="4527bf75-e888-4696-8d64-385f35c18f82" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND">
+        <condition column="std_dpart" operator="=" value="" active="true" />
+      </filter>
+    </filter-actions>
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
@@ -28,10 +43,10 @@
   </component>
   <component name="DBNavigator.Project.Settings">
     <connections>
-      <connection id="d4dac44d-7133-4445-8757-911e4aff2a23" active="true" signed="true">
+      <connection id="30f6fe5c-43c6-4673-9697-ff6e4bbbf2fd" active="true" signed="true">
         <database>
           <name value="Connection" />
-          <description value="" />
+          <description value="InventoryManagement" />
           <database-type value="MYSQL" />
           <config-type value="BASIC" />
           <database-version value="8.0" />
