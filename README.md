@@ -1,4 +1,4 @@
-# Inventory-Management-System
+# Top-Sell
 
 This is a is a sales management system developed in java. 
 
