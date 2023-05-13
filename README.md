@@ -19,6 +19,7 @@ Hello, I'm Cyril Kimbi [The TechPreneur] UI/UX Designer for the TOPSELL project 
 The design goals for this Figma design were to:
 
 ➡Create a modern and visually appealing design that aligns with our brand guidelines.
+
 ➡Simplifying Admin and Cashier navigation and improving content discoverability.
 
 
@@ -26,7 +27,9 @@ The design goals for this Figma design were to:
 To create this Figma design, I followed a user-centered design process that included:
 
 ➡Conducting research to understand user needs, pain points, and behaviors.
+
 ➡Creating low-fidelity wireframes and conducting usability testing to refine the user flow.
+
 ➡Developing high-fidelity prototypes and conducting further user testing to validate the design.
 
 
@@ -53,6 +56,7 @@ To help others work with this Figma design, I've provided the following design g
 Here are some resources that you may find helpful when working with this Figma design:
 
 ➡➡Figma design files: [ https://www.figma.com/file/Qw992MMHnHMZpI59wnxpLS/INVENTORY-SYS?type=design&node-id=0%3A1&t=H5lfuy2nb8g4hDpd-1 ]
+
 ➡➡User feedback: [To be Added]
 ➡➡Images from google (Will be changes during implementation to royaly free images)
 
