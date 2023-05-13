@@ -37,8 +37,11 @@ To create this Figma design, I followed a user-centered design process that incl
 The key features of this Figma design include:
 
 ➡A clean and minimalist design that puts the focus on the content.
+
 ➡A simplified navigation that highlights the most important pages and sections.
+
 ➡An optimized checkout process that reduces the number of steps and increases transparency.
+
 ➡Clear and concise messaging that aligns with our brand voice and tone.
 
 
