@@ -54,11 +54,14 @@ To help others work with this Figma design, I've provided the following design g
       #FFFFFF
       #555353
 ➡Use the component library to ensure consistency and save time.
+
 ➡Ensure that all designs align with the project objectives and user needs.
 # Resources
 Here are some resources that you may find helpful when working with this Figma design:
 
-➡➡Figma design files: [ https://www.figma.com/file/Qw992MMHnHMZpI59wnxpLS/INVENTORY-SYS?type=design&node-id=0%3A1&t=H5lfuy2nb8g4hDpd-1 ]
+➡➡Figma design files:
+
+[ https://www.figma.com/file/Qw992MMHnHMZpI59wnxpLS/INVENTORY-SYS?type=design&node-id=0%3A1&t=H5lfuy2nb8g4hDpd-1 ]
 
 ➡➡User feedback: [To be Added]
 ➡➡Images from google (Will be changes during implementation to royaly free images)
